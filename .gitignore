@@ -7,15 +7,15 @@ env
 test_db.db
 
 # dependencies
-/node_modules
-/.pnp
+/fe/node_modules
+/fe/.pnp
 .pnp.js
 
 # testing
-/coverage
+/fe/coverage
 
 # production
-/build
+/fe/build
 
 # misc
 .DS_Store
